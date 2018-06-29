@@ -1,0 +1,82 @@
+[
+  {
+    "name": "平安标准卡",
+    "id": "pabzk",
+    "Credit_previllege_info": "50万海陆空交通意外险|金卡赠高额燃气意外保险|72小时失卡保障|最高赔付5万",
+    "Credut_basicinfo": "300元/年，首年免年费，刷6次免次年年费。",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-biaozhun.jpg",
+	"productType": "cardLogo=844&creditcardCategory=G&creditcardTypeName=1&affinityCode=0009&mainCardface=1&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "平安由你卡",
+    "id": "paynk",
+    "Credit_previllege_info": "颜值爆表-卡面随心定| 权益包自由可选",
+    "Credut_basicinfo": "终身免年费",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-youni.jpg",
+	"productType": "cardLogo=745&creditcardCategory=C&creditcardTypeName=9&affinityCode=0003&mainCardface=&cardface2=&cardCatenaNo=01&cardFaceNo=01"
+  },
+  {
+    "name": "平安爱奇艺金卡",
+    "id": "paaqyjk",
+    "Credit_previllege_info": "月月送爱奇艺VIP黄金会员|网络消费可积分",
+    "Credut_basicinfo": "主卡300元/年，附属卡150元/年。|免首年年费，消费满6笔免次年年费",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-aiqiyi.jpg",
+	"productType": "cardLogo=309&creditcardCategory=G&creditcardTypeName=t4&affinityCode=0011&mainCardface=0&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "腾讯视频VIP金卡",
+    "id": "txspjk",
+    "Credit_previllege_info": "首刷送3个月腾讯视频VIP会员，消费达标持续送| 新客户送平安口袋商城188大礼包| 最高1万网络盗刷险",
+    "Credut_basicinfo": "首年免年费，消费满6笔免次年年费",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-tencent.jpg",
+	"productType": "cardLogo=311&creditcardCategory=G&creditcardTypeName=tcg2&affinityCode=0029&mainCardface=0&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "曼联红魔白金卡",
+    "id": "mlhmbjk",
+    "Credit_previllege_info": "球星版卡面活动期免收卡面定制费| 银联卡新户满4笔288赠曼联礼品兑换券| 银联卡每月4笔288集红魔印花兑曼联壕礼| VISA卡消费达标送50元境外消费金",
+    "Credut_basicinfo": "银联+VISA套卡首年免年费，银联卡刷满12次免套卡次年年费",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-manlian.jpg",
+	"productType": "cardLogo=924&creditcardCategory=P&creditcardTypeName=mk12&affinityCode=0007&mainCardface=1|&cardface2=1&cardCatenaNo=01&cardFaceNo=01"
+  },
+  {
+    "name": "平安淘宝卡",
+    "id": "patbk",
+    "Credit_previllege_info": "淘宝消费1倍积分| 72小时盗刷赔付，最高5万| 自动关联支付宝，快捷又方便 ",
+    "Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-taobao.jpg",
+	"productType": "cardLogo=747&creditcardCategory=C&creditcardTypeName=8&affinityCode=0011&mainCardface=2|&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "平安保险卡",
+    "id": "pabxk",
+    "Credit_previllege_info": "50万海陆空意外伤害险| 15万燃气意外伤害险| 72小时失卡保障，最高赔付5万",
+    "Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-baoxian.jpg",
+	"productType": "cardLogo=805&creditcardCategory=G&creditcardTypeName=13&affinityCode=0005&mainCardface=0|&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "平安不带卡",
+    "id": "pabdk",
+    "Credit_previllege_info": "商城专享优惠价| 网络消费可积分",
+    "Credut_basicinfo": "终身免年费",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-budaika.jpg",
+	"productType": "cardLogo=208&creditcardCategory=C&creditcardTypeName=30&affinityCode=0027&mainCardface=0|&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "平安携程商旅金卡",
+    "id": "paxck",
+    "Credit_previllege_info": "携程金牌会员 | 全方位海陆空保险 | 国内全天候紧急救援",
+    "Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-xcsljk.jpg",
+	"productType": "cardLogo=806&creditcardCategory=G&creditcardTypeName=5&affinityCode=0006&mainCardface=0|&cardface2=&cardCatenaNo=&cardFaceNo="
+  },
+  {
+    "name": "平安1号店金卡",
+    "id": "payhdk",
+    "Credit_previllege_info": "送1号店消费抵扣券 | 送1号店包邮券 | 每月1号5倍积分",
+    "Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+    "Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-yihaodian.jpg",
+	"productType": "cardLogo=847&creditcardCategory=G&creditcardTypeName=11&affinityCode=0013&mainCardface=0|&cardface2=&cardCatenaNo=&cardFaceNo="
+  }
+]

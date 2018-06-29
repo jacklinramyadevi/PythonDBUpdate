@@ -1,0 +1,38 @@
+[{
+	"title" : "花旗礼享卡",
+	"pcode" : "CC120",
+	"scode" : "LZ88ZZYR",
+	"locale" : "zh_CN",
+	"icid" : "CNCCACCRWCTA",
+	"Credit_previllege_info": "最高5X积分累积 | 海外消费3X积分 | 餐饮类消费2X积分 | 生日消费最高5X积分 | 支付宝消费享积分 | 积分随心兑换礼品、刷卡金及航空公司里程",
+	"Credut_basicinfo": "首年免年费，人民币主卡刷6次免次年年费",
+	"Credit_card_pic":"https://www.citibank.com.cn/sim/ICARD/images/cards_page_03.jpg"
+},{
+	"title" : "花旗轻享卡",
+	"pcode" : "CC150",
+	"scode" : "LZ88ZZXR",
+	"locale" : "zh_CN",
+	"icid" : "CNCCACCHRCTA",
+	"Credit_previllege_info": "最高30万元信用额度 | 自动分期，自由定制账单起分金额及期数 | 超低分期手续费率 | 72小时失卡保障",
+	"Credut_basicinfo": "新户专享超低费率现金分期，更享最高1,000元刷卡金",
+	"Credit_card_pic":"https://www.citibank.com.cn/sim/ICARD/images/cards_page_qx.jpg"
+},{
+	"title" : "花旗礼程卡",
+	"pcode" : "CC110",
+	"scode" : "LZ88ZZZR",
+	"locale" : "zh_CN",
+	"icid" : "CNCCACCPMCTA",
+	"Credit_previllege_info": "超快累积花旗礼程，礼程终身有效 | 每消费人民币12元=1花旗礼程 | 每消费美金1元=1花旗礼程 | 1花旗礼程=1航空里程 | 全球超过80家航空公司航线兑换 | 全球超过900个机场 / 境内高铁贵宾室 | 全国超过40家机场接 / 送机优惠服务",
+	"Credut_basicinfo": "高额旅行保障（延误3小时，赔偿1000元）",
+	"Credit_card_pic":"https://www.citibank.com.cn/sim/ICARD/images/cards_page_09.jpg"
+},{
+	"title" : "花旗至享卡",
+	"pcode" : "CC140",
+	"scode" : "LZ88ZZWR",
+	"locale" : "zh_CN",
+	"icid" : "CNCCACCPRCTA",
+	"Credit_previllege_info": "优享回报 | 12 RMB=18花旗积分=1航空里程 | 1 USD=18花旗积分=1航空里程 | 合格花旗财富管理客户最高可享额外50%年度积分 | 全球超过100多万家精选酒店第四晚免费入住 | 免费无限次使用全球超过900个机场/境内高铁贵宾室 | 24小时生活管家，全年无休",
+	"Credut_basicinfo": "等同于30,000航空里程的积分献礼或RIMOWA SALSA AIR登机箱",
+	"Credit_card_pic":"https://www.citibank.com.cn/sim/ICARD/images/cards_page_14.jpg"
+	}
+]

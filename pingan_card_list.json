@@ -1,0 +1,157 @@
+[{
+    "name": "平安标准卡",
+    "id": "pabzk|cardLogo=844|creditcardCategory=G|creditcardTypeName=1|affinityCode=0009|mainCardface=1cardface2=",
+	"Credit_previllege_info": "50万海陆空交通意外险|金卡赠高额燃气意外保险|72小时失卡保障|最高赔付5万",
+	"Credut_basicinfo": "300元/年，首年免年费，刷6次免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-biaozhun.jpg"
+}, {
+    "name": "平安由你卡",
+    "id": "paynk|cardLogo=745|creditcardCategory=C|creditcardTypeName=9|affinityCode=0003|mainCardface=cardface2=",
+	"Credit_previllege_info": "颜值爆表-卡面随心定| 权益包自由可选",
+	"Credut_basicinfo": "终身免年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-youni.jpg"
+}, {
+    "name": "平安爱奇艺金卡",
+    "id": "paaqyjk|cardLogo=309|creditcardCategory=G|creditcardTypeName=t4|affinityCode=0011|mainCardface=0cardface2=",
+	"Credit_previllege_info": "月月送爱奇艺VIP黄金会员|网络消费可积分",
+	"Credut_basicinfo": "主卡300元/年，附属卡150元/年。|免首年年费，消费满6笔免次年年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-aiqiyi.jpg"
+}, {
+    "name": "腾讯视频VIP金卡",
+    "id": "txspjk|cardLogo=311|creditcardCategory=G|creditcardTypeName=tcg2|affinityCode=0029|mainCardface=0cardface2=",
+	"Credit_previllege_info": "首刷送3个月腾讯视频VIP会员，消费达标持续送| 新客户送平安口袋商城188大礼包| 最高1万网络盗刷险",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-tencent.jpg"
+}, {
+    "name": "曼联红魔白金卡",
+    "id": "mlhmbjk|cardLogo=924|creditcardCategory=P|creditcardTypeName=mk12|affinityCode=0007|mainCardface=1|cardface2=1",
+	"Credit_previllege_info": "球星版卡面活动期免收卡面定制费| 银联卡新户满4笔288赠曼联礼品兑换券| 银联卡每月4笔288集红魔印花兑曼联壕礼| VISA卡消费达标送50元境外消费金",
+	"Credut_basicinfo": "银联+VISA套卡首年免年费，银联卡刷满12次免套卡次年年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-manlian.jpg"
+}, {
+    "name": "平安淘宝卡",
+    "id": "patbk|cardLogo=747|creditcardCategory=C|creditcardTypeName=8|affinityCode=0011|mainCardface=2|cardface2=",
+	"Credit_previllege_info": "淘宝消费1倍积分| 72小时盗刷赔付，最高5万| 自动关联支付宝，快捷又方便 ",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-taobao.jpg"
+}, {
+    "name": "平安保险卡",
+    "id": "pabxk|cardLogo=805|creditcardCategory=G|creditcardTypeName=13|affinityCode=0005|mainCardface=0|cardface2=",
+	"Credit_previllege_info": "50万海陆空意外伤害险| 15万燃气意外伤害险| 72小时失卡保障，最高赔付5万",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-baoxian.jpg"
+}, {
+    "name": "平安不带卡",
+    "id": "pabdk|cardLogo=208|creditcardCategory=C|creditcardTypeName=30|affinityCode=0027|mainCardface=0|cardface2=",
+	"Credit_previllege_info": "商城专享优惠价| 网络消费可积分",
+	"Credut_basicinfo": "终身免年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-budaika.jpg"
+}, {
+    "name": "平安携程商旅金卡",
+    "id": "paxck|cardLogo=806|creditcardCategory=G|creditcardTypeName=5|affinityCode=0006|mainCardface=0|cardface2=",
+	"Credit_previllege_info": "携程金牌会员 | 全方位海陆空保险 | 国内全天候紧急救援",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-xcsljk.jpg"
+}, {
+    "name": "平安1号店金卡",
+    "id": "payhdk|cardLogo=847|creditcardCategory=G|creditcardTypeName=11|affinityCode=0013|mainCardface=0|cardface2=",
+	"Credit_previllege_info": "送1号店消费抵扣券 | 送1号店包邮券 | 每月1号5倍积分",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-yihaodian.jpg"
+}, {
+    "name": "中国旅游金卡",
+    "id": "pazglyk",
+	"Credit_previllege_info": "0.5%旅游消费金回馈 | 百家景点门票优惠 | 300万海陆空交通意外险 | 全方位旅游不便保障",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-zglyjk.jpg"
+}, {
+    "name": "香港旅游金卡",
+    "id": "paxglyk",
+	"Credit_previllege_info": "香港消费3倍积分|特约商户4倍银联积分 | 香港购物近千家门店折扣优惠",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-xglyjk.jpg"
+}, {
+    "name": "万事达美元白金卡",
+    "id": "wsdmybjk",
+	"Credit_previllege_info": "奢享安纳塔拉199美金3晚|免费领取龙腾出行50元通用代金券|全球消费0货币转换费|尊享全球保障",
+	"Credut_basicinfo": "终身免年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-wsdbjk.jpg"
+}, {
+    "name": "美国运通白金卡",
+    "id": "mgytbjk",
+	"Credit_previllege_info": "全球消费0货币转换费 | 尊享全球保障 |六大热门海淘商户最高15%返利 | 境外购物10%返现、20%立减",
+	"Credut_basicinfo": "终身免年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-mgytbjk.jpg"
+}, {
+    "name": "曼联红魔白金卡",
+    "id": "mlhmbjk",
+	"Credit_previllege_info": "球星版卡面活动期免收卡面定制费 | 银联卡新户满4笔288赠曼联礼品兑换券 | 银联卡每月4笔288集红魔印花兑曼联壕礼 | VISA卡消费达标送50元境外消费金 | 曼联银联卡更多礼遇 | 曼联VISA卡更多礼遇",
+	"Credut_basicinfo": "银联+VISA套卡首年免年费，银联卡刷满12次免套卡次年年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-manlian.jpg"
+}, {
+    "name": "中超由你卡",
+    "id": "pazclmk",
+	"Credit_previllege_info": "颜值爆表-卡面随心定 | 权益包自由可选",
+	"Credut_basicinfo": "终身免年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-zcynk.jpg"
+},  {
+    "name": "腾讯视频VIP白金卡",
+    "id": "txspbjk",
+	"Credit_previllege_info": "首刷送3个月腾讯视频VIP会员，消费达标持续送 | 2小时航延赔¥800/次，不限次数 | 最高1000万综合交通意外险 | 最高2万网络盗刷险",
+	"Credut_basicinfo": "主卡600元/年，附属卡480元/年，核卡首三个月累计消费满¥8800减免首年年费。|当年累计消费满12万元（附属卡10万元），减免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-tencentbj.jpg"
+}, {
+    "name": "爱奇艺白金卡",
+    "id": "paaqybjk|cardLogo=923|creditcardTypeName=p3|affinityCode=0005",
+	"Credit_previllege_info": "月月送爱奇艺VIP黄金会员 | 2小时航延理赔¥800 | 最高1000万综合交通意外保障险 | 网络消费可积分",
+	"Credut_basicinfo": "主卡600元/年，附属卡480元/年，核卡首三个月累计消费满8800元减免首年。| 当年累计消费满12万元(附属卡10万元），减免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-aiqiyijk.jpg"
+}, {
+    "name": "平安车主卡",
+    "id": "paczk",
+	"Credit_previllege_info": "赠最高110万元全车人员意外保障 | 免费30公里事故与非事故道路救援",
+	"Credut_basicinfo": "200元/年，卡片激活即收取，首年消费满3万元免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-chezhu.jpg"
+}, {
+    "name": "平安保险卡",
+    "id": "pabxk",
+	"Credit_previllege_info": "50万海陆空意外伤害险 | 15万燃气意外伤害险 | 72小时失卡保障，最高赔付5万",
+	"Credut_basicinfo": "首年免年费，消费满6笔免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-baoxian.jpg"
+}, {
+    "name": "平安保险金卡",
+    "id": "pabxjk",
+	"Credit_previllege_info": "100万海陆空意外伤害险 | 5万一般意外伤害险 | 72小时失卡保障，最高赔付5万",
+	"Credut_basicinfo": "主卡¥200，附属卡¥150，卡片激活即收取，首年刚性收取，主卡刷卡满3万(附属卡1.5万）可减免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-baoxianjk.jpg"
+}, {
+    "name": "车主白金卡",
+    "id": "paczbjk",
+	"Credit_previllege_info": "最高12次/年精致洗车，6次/年酒后代驾 | 赠最高220万元全车人员意外保障 | 免费不限公里事故与非事故道路救援 | 最高1,000万元航空意外险",
+	"Credut_basicinfo": "主卡：800元/年，卡片激活即收取，首年消费满20万元免次年年费；附属卡卡片有效期内免年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-czbjk.jpg"
+}, {
+    "name": "精英白金卡",
+    "id": "pajybjk",
+	"Credit_previllege_info": "2小时航延赔¥800 | 6次境内机场接送 | 1000万综合交通意外险 | 100万全车人员意外险",
+	"Credut_basicinfo": "主卡¥600，附属卡¥480，卡片核发的首三个自然月内消费满¥8800可免首年年费(主附卡分别累计）；主卡刷满12万元、附属卡刷满10万元，可免次年年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-jybjk.jpg"
+},{
+    "name": "平安白金卡",
+    "id": "pabjk",
+	"Credit_previllege_info": "2小时航延最高赔¥2000 | 6次境内机场接送 | 1000万综合交通意外险 | 100万全车人员意外险 | 生日当月5倍积分",
+	"Credut_basicinfo": "主卡¥2800，附属卡¥1800，首年刚性收取；刷满30万元(主附卡分别累计）可免次年年费，刷满15万元(主附卡分别累计）可免次年半额年费。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-pabjk.jpg"
+}, {
+    "name": "中国旅游白金卡",
+    "id": "zglybjk",
+	"Credit_previllege_info": "1%旅游消费金回馈 | 百家景点门票优惠 | 1000万海陆空交通意外险 | 50万全车人员意外险",
+	"Credut_basicinfo": "主卡¥1200，附属卡¥800，首年刚性年费，当年消费满10万(含），减免次年50%年费，当年消费满20万(含）减免次年全额年费",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-zglybjk.jpg"
+},  {
+    "name": "运通百夫长白金卡",
+    "id": "ytbfzbjk",
+	"Credit_previllege_info": "首刷赠2000元旅行定制券 | 6次免费境外高端机场接送 | 全球免费机场贵宾厅，不限次数 | 全球顶级酒店免费精英会籍，享贵宾礼遇 | 全国星级餐厅自助餐买一赠一，米其林餐厅享7折 | 2小时境外航延赔¥2000，不限次数",
+	"Credut_basicinfo": "主卡¥6000，附属卡¥3000，首张附属卡免年费。| 主卡或附属卡首三个月内激活，可在加办平安白金信用卡时，减免白金信用卡首年年费¥2800。",
+	"Credit_card_pic": "https://b.pingan.com.cn/station/activity/creditcard/al-credit/images/card-ytbfc.jpg"
+}]
